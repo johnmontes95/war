@@ -2,4 +2,5 @@
 
 Proyecto Java de prueba
 
-- El proyecto contiene lo siguiente
+- El proyecto contiene lo siguiente:
+
